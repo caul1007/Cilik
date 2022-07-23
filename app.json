@@ -1,15 +1,15 @@
 {
-      "name": "Cilik Robot",
+      "name": "Netero Robot",
       "description": "A Powerful  Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
          "advance",
          "group",
          "manager",
-         "CilikRobot"
+         "NeteroRobot"
       ],
     
-   "logo":    "https://telegra.ph/file/a807460d64ac73c5dc83a.jpg",  
+   "logo":    "https://telegra.ph/file/cd016628b417061bbe196.jpg",  
    "repository": "https://github.com/grey423/Cilik",
    "addons": [
           {
