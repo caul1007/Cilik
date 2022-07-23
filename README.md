@@ -1,4 +1,4 @@
-<h4><p align="center"> ⭐ 𝐂𝐈𝐋𝐈𝐊 ⭐ </p></h4>
+<h4><p align="center"> ⭐ Netero ⭐ </p></h4>
 
 <p align="center">
   <img src="https://telegra.ph/file/cd016628b417061bbe196.jpg">
